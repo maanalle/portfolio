@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 Ce projet combine les fonctionnalités d'Odoo et WordPress pour optimiser les processus métier, tout en assurant une gestion efficace des ressources et du contenu en ligne.</p>
                 <br><p><strong>Technologies utilisées :</strong> Odoo, WordPress.</p><br>
             `,
-            report: "reports/erp-cms_report.pdf"
+            report: "reports/ecm_report.pdf"
         },
         restaurant: {
             title: "Système de gestion de restaurant",
